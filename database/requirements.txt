@@ -1,0 +1,32 @@
+# Web framework and API
+fastapi[standard]
+uvicorn
+
+# Data validation and modeling
+pydantic
+pydantic_core
+
+# MongoDB ORM
+mongoengine
+pymongo
+
+# Session and token handling
+itsdangerous
+werkzeug
+PyJWT
+
+# Typing and core tools
+typing_extensions
+
+# Testing
+pytest
+pytest-mock
+mongomock
+
+# Login
+python-dotenv
+httpx
+
+# requests
+requests
+
